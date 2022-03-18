@@ -1,0 +1,5 @@
+{
+    "create_event_error":"Event create failed",
+    "server_error":"server Error",
+    "get_event_error":"Error happen while get event"
+}
